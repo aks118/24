@@ -1,2 +1,2 @@
-# 24
-class 24
+# angryBirdsStage1
+Stage 1 Angry Birds
